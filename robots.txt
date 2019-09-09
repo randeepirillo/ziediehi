@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeegeixuof.rodrigosalmeron.mx/sitemap.xml
